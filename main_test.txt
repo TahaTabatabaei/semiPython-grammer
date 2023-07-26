@@ -1,0 +1,85 @@
+
+import java.ux , css , html ;
+
+from root.myMath import random.max;
+
+from math.lju import random => kok9 ;
+
+from math import random, floor;
+
+class MyClass extends Parent implements interface_1 with interface2 with interface$3 {
+
+~~ comment
+
+private const myInitiatedArray : new Array String ( 11 , "as", 90.25, 43);
+const myConst : string = "LoremIpsum";
+var myVar , ads : Int = 23 , kill : new Array Float (1.4, 1.34e-4) ;
+
+public var point : new PointClass(1 , 2);
+
+MyClass (int kill , string text){
+print("hello,world");
+point = kill ;
+kill = point >> 2 ;
+
+}
+
+~/
+comments
+/~
+
+double divide (Int num1, Int num2) {
+var result : Double;
+num1 -= num1;
+print("we devide ${num1} by ${num2} ");
+result = num1 / num2;
+return result;
+}
+
+private void func(){
+
+for ( ali = 1 ; 2.4 <= e$_w ; iq = !kid ){
+var myArray : new Array Double (4);
+}
+
+for ( zman in zmen){
+if(!fox){
+const origin : new Point();
+}
+elif(max== min){
+if(10 > 9){
+return true;
+}
+}
+else{
+result = num1 / num2;
+}
+}
+
+try {
+
+
+switch ( ali + 2 ) {
+case 1:
+case taha:
+break;
+case "dude":
+private var ali;
+sum *= x1 + x2 + x3 - x4 ;
+default :
+if ( dad + you > mom ){
+return mom-- ;
+}
+}
+
+} on myOwnExcp catch (  this_bad_error ) {
+while ( ali * taha >= 10 ) {
+print("ms.chaini");
+ali--;
+--taha;
+}
+}
+
+}
+
+}

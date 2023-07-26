@@ -1,0 +1,104 @@
+var myArray : new Array Double (4);
+
+var myVar , ads : Int = 23 , kil : new Array Float (1.4,2) ;
+
+const myConst : String = “Lorem Ipsum”;
+
+var myVar , ads : Int = 23 , kil : new Array Float ("sli") ;
+
+const myInitiatedArray : new Array String ( 11 , "as", 90.25, 43);
+
+import java.ux , css , html ;
+
+from root.myMath import random.max;
+
+from math.lju import random => kok9 ;
+
+from math import random, floor;
+
+Double divide (Int num1, Int num2) {}
+
+double divide (Int num1, Int num2) {
+var result : Double;
+result = num1 / num2;
+return result;
+}
+
+var point : new Point(1 , 2);
+
+const origin : new Point();
+
+public var point : new Point(1 , 2);
+
+class MyClass extends parent_name implements trait_1 with trait2 with jack {
+
+
+}
+
+for ( ali = 1 ; 2.4 <= ead ; iq = !kid ){
+var myVar , ads : Int = 23 , kil : new Array Float ("sli") ;
+}
+for ( zman in zmen){
+
+}
+while ( ali + taha >= 10 ) {}
+do{
+}while
+
+
+
+if(!fox){
+const origin : new Point();}
+elif(max > min){
+if(10 > 9){
+return true;
+}
+}
+else{result = num1 / num2;}
+
+switch ( ali + 2 ) {
+case 1:
+case taha:
+break;
+case "dude":
+private var ali;
+default :
+if ( dad + you){
+return money;
+}
+}
+
+try {
+while ( ali + taha >= 10 ) {}
+
+switch ( ali + 2 ) {
+case 1:
+case taha:
+break;
+case "dude":
+private var ali;
+default :
+if ( dad + you){
+return money;
+}
+}
+
+} on myOwnExcp catch (  this_bad_error ) {
+print("ms.chaini");
+}
+
+point = kill;
+num1 -= num1;
+result = num1 / num2;
+i = !kid
+2.4 <= e
+ali = 1
+ali + taha >= 10
+sum *= x1 + x2 + x3 - x4 ;
+ali--;
+--taha;
+
+print("we devide ${num1} by ${num2} ");
+print("ms.chaini");
+
+3 + 4 * 2 - 8
